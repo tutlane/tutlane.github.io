@@ -16,4 +16,7 @@ Following are the some of the best tutorials to learn from basic to advanced lev
 <a href="https://www.tutlane.com/tutorial/bootstrap" target="_blank">Bootstrap Tutorial</a><br/>
 <a href="https://www.tutlane.com/tutorial/typescript" target="_blank">TypeScript Tutorial</a><br/>
 <a href="https://www.tutlane.com/tutorial/visual-basic" target="_blank">Visual Basic Tutorial</a><br/>
+<a href="https://www.tutlane.com/tutorial/linq" target="_blank">LINQ Tutorial</a><br/>
+<a href="https://www.tutlane.com/tutorial/aspnet-mvc" target="_blank">Asp.Net MVC Tutorial</a><br/>
+<a href="https://www.tutlane.com/tutorial/rabbitmq" target="_blank">RabbitMQ Tutorial</a><br/>
 
