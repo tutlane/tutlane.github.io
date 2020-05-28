@@ -1,5 +1,5 @@
 # Tutlane.com
-Tutlane.com is a online free tutorials site and it will provide a tutorials from all latest software technlogies.
+Tutlane is an eLearning organization providing quality online tutorials, articles, and information related to the latest information technology and non-technical subjects. This aims to help professionals to hone and improve their skills.
 
 Following are the some of the best tutorials to learn from basic to advanced level.
 
@@ -13,4 +13,7 @@ Following are the some of the best tutorials to learn from basic to advanced lev
 <a href="https://www.tutlane.com/tutorial/nodejs" target="_blank">Node.js Tutorial</a><br/>
 <a href="https://www.tutlane.com/tutorial/font-icons" target="_blank">Font Icons Tutorial</a><br/>
 <a href="https://www.tutlane.com/tutorial/jquery" target="_blank">jQuery Tutorial</a><br/>
+<a href="https://www.tutlane.com/tutorial/bootstrap" target="_blank">Bootstrap Tutorial</a><br/>
+<a href="https://www.tutlane.com/tutorial/typescript" target="_blank">TypeScript Tutorial</a><br/>
+<a href="https://www.tutlane.com/tutorial/visual-basic" target="_blank">Visual Basic Tutorial</a><br/>
 
