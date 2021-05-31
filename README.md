@@ -19,4 +19,6 @@ Following are the some of the best tutorials to learn from basic to advanced lev
 <a href="https://www.tutlane.com/tutorial/linq" target="_blank">LINQ Tutorial</a><br/>
 <a href="https://www.tutlane.com/tutorial/aspnet-mvc" target="_blank">Asp.Net MVC Tutorial</a><br/>
 <a href="https://www.tutlane.com/tutorial/rabbitmq" target="_blank">RabbitMQ Tutorial</a><br/>
+<a href="https://www.tutlane.com/tutorial/python" target="_blank">Python Tutorial</a><br/>
+<a href="https://www.tutlane.com/tutorial/highcharts" target="_blank">Highcharts Tutorial</a><br/>
 
